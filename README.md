@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anurag Sharma. Working as a Data Engineer with HP Personal System Softwares. Working in analytics field for 6.5+ years.
+I am Anurag Sharma. Working as a Data Engineer with HP Personal System Softwares. Working in analytics field for 7+ years.
 
 - 🔭 I’m currently working with Analytics-ML team in HP
 - 🌱 I’m currently learning AWS technologies
